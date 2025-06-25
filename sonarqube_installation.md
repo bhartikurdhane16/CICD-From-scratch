@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - SonarQube server will require 3GB+ RAM to work effeciently
-
+- use R
 ### Install Database
 ```shell
 rpm -ivh http://repo.mysql.com/mysql57-community-release-el7.rpm

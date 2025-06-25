@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - SonarQube server will require 3GB+ RAM to work effeciently
-- use Read hat 9 or below 
+- use Read hat 9 or below AMI as they supports mysql
 ### Install Database
 ```shell
 rpm -ivh http://repo.mysql.com/mysql57-community-release-el7.rpm

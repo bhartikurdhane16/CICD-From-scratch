@@ -6,6 +6,7 @@
 ### Install Database
 ```shell
 rpm -ivh http://repo.mysql.com/mysql57-community-release-el7.rpm
+#rpm -Uvh https://repo.mysql.com/mysql80-community-release-el7-5.noarch.rpm
 ls /etc/yum.repos.d/
 rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
 yum install mysql-server -y
